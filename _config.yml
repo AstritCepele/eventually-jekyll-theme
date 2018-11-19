@@ -1,21 +1,21 @@
 # Site settings
-title: Something-new-is--coming
+title: Something new is coming
 email: email@astritcepele.me  
 description: This is a portofolio, CV website that it is running totally at 0 costs.
-baseurl: "/eventually-jekyll-theme" # the subpath of your site, e.g. /blog
-url: "astritcepele.me" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://astritcepele.me" # the base hostname & protocol for your site
 
 # Social settings
 500px_url:
 facebook_url:
 github_url:
-gitlab_url: https://gitlab.com/u/andrewbanchich
+gitlab_url: https://github.com/AstritCepele
 googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
-instagram_url:
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+instagram_url: https://www.instagram.com/astrit.cepele/
+linkedin_url: https://www.linkedin.com/in/astrit-çepele
 pinterest_url:
 slack_url:
-twitter_url: https://twitter.com/andrewbanchich
+twitter_url: 
 
 # Build settings
 markdown: kramdown
