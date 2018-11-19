@@ -3,7 +3,7 @@ title: Working on something new
 email: email@astritcepele.me
 description: This is a portofolio, CV website that it is running totally at 0 costs.:
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://astritcepele.me/" # the base hostname & protocol for your site
+url: "https://astritcepele.me" # the base hostname & protocol for your site
 
 # Social settings
 500px_url:
