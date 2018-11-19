@@ -1,6 +1,6 @@
 # Site settings
 title: Something new is coming
-email: email@astritcepele.me  
+email: email@astritcepele.me
 description: This is a portofolio, CV website and it is under-construction.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://astritcepele.me" # the base hostname & protocol for your site
