@@ -1,7 +1,7 @@
 # Site settings
 title: Something new is coming
 email: email@astritcepele.me  
-description: This is a portofolio, CV website that it is running totally at 0 costs.
+description: This is a portofolio, CV website and it is under-construction
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://astritcepele.me" # the base hostname & protocol for your site
 
@@ -10,7 +10,7 @@ url: "https://astritcepele.me" # the base hostname & protocol for your site
 facebook_url:
 github_url:
 gitlab_url: https://github.com/AstritCepele
-googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
+googleplus_url: 
 instagram_url: https://www.instagram.com/astrit.cepele/
 linkedin_url: https://www.linkedin.com/in/astrit-çepele
 pinterest_url:
