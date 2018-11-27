@@ -2,7 +2,7 @@
 title: Something new is coming
 email: email@astritcepele.me
 description: This is a portofolio, CV website and it is under-construction.
-baseurl: "/soon/" # the subpath of your site, e.g. /blog
+baseurl: "/soon # the subpath of your site, e.g. /blog
 url: "https://astritcepele.me" # the base hostname & protocol for your site
 
 # Social settings
